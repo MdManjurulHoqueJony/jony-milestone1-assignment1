@@ -124,6 +124,87 @@
     font-size: 40px;
 }
 
-.mix-background .btn-primary{
+.mix-background .btn-primary {
     margin-top: 24px;
+}
+
+.footer {
+    display: flex;
+    background: #151414;
+    justify-content: space-around;
+}
+
+.contact {
+    margin-top: 136px;
+    margin-left: 236px;
+    margin-bottom: 124px;
+
+}
+
+.contact .title {
+    font-weight: 700;
+    font-size: 45px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.contact .description{
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.contact .email{
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.contact .phone{
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.icon-gap{
+    margin-right: 18px;
+    margin-left: 17px;
+}
+
+.subscribe {
+    margin-top: 130px;
+    margin-right: 229px;
+    margin-left: 331px;
+    margin-bottom: 243px;
+}
+
+.subscribe .title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-bottom: 31px;
+}
+
+.subscribe-email {
+    width: 325px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+    margin-bottom: 16px;
+    padding-top: 21px;
+    padding-bottom: 22px;
+    padding-left: 21px;
+    padding-right: 158px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+.subscribe .btn-primary {
+    color: white;
+    background-color: #005FAC;
+}
+
+.copyright-footer{
+    background: #151414;
+}
+.copyright{
+    text-align: right;
+    color: white;
 }
