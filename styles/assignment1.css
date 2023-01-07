@@ -33,3 +33,34 @@
     font-size: 20px;
     color: #005FAC;
 }
+
+.failure-history {
+    display: flex;
+    gap: 87px;
+    margin: 131px 322px 129px 206px;
+}
+
+.correct-mark {
+    color: green;
+}
+
+.failure-texts {
+    margin-top: 239px;
+}
+
+.failure-texts .title {
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.failure-texts .description {
+    margin-bottom: 16px;
+    color: #444343;
+}
+
+.failure-texts p {
+    margin-bottom: 8px;
+    color: #444343;
+}
